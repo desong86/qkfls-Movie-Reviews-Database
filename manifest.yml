@@ -2,4 +2,4 @@
 applications:
  - name: 1997
    random-route: true
-   memory: 128M
+   memory: 256M
